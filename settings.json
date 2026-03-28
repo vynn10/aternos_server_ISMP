@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "vynnAFKBot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "vynn",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "InteriosSMP.aternos.me",
+    "port": 32527,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
